@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "a20bf79a-8350-4772-bf52-7b0550fe0f48",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://127.0.0.1:8000/api/register",
+    "url": "http://127.0.0.1:8000/api/register",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-11-01T11:18:52.960Z",
+    "modified": "2022-11-01T11:18:53.788Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "formdata",
+      "raw": "",
+      "form": [
+        {
+          "name": "username",
+          "value": "JoshXJon"
+        },
+        {
+          "name": "password",
+          "value": "OnePiece"
+        }
+      ]
+    },
+    "tests": []
+  },
+  {
+    "_id": "02459c7a-7ec3-48ce-acc5-3de595bc9a92",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://127.0.0.1:8000/api/register",
+    "url": "http://127.0.0.1:8000/api/register",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-11-01T11:18:58.392Z",
+    "modified": "2022-11-01T11:20:07.511Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "formdata",
+      "raw": "",
+      "form": [
+        {
+          "name": "username",
+          "value": "JoshXJon"
+        },
+        {
+          "name": "password",
+          "value": "OnePiece"
+        }
+      ]
+    },
+    "tests": []
+  },
+  {
+    "_id": "20eb1ebf-e4aa-4a31-9000-b42f53c98e75",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://127.0.0.1:8000/api/login",
+    "url": "http://127.0.0.1:8000/api/login",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-11-01T11:20:44.639Z",
+    "modified": "2022-11-01T11:21:11.268Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "formdata",
+      "raw": "",
+      "form": [
+        {
+          "name": "username",
+          "value": "JoshXJon"
+        },
+        {
+          "name": "password",
+          "value": "OnePiece"
+        }
+      ]
+    },
+    "tests": []
+  }
+]
